@@ -11,10 +11,10 @@
     "temporal"
   ],
   "license": "MIT",
-  "author": "__AUTHOR__",
+  "author": "kofiadeyemiq",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/__GH_OWNER__/durationkit.git"
+    "url": "git+https://github.com/quietpelican42/durationkit.git"
   },
   "type": "module",
   "engines": {
